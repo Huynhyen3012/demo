@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace baitap
 {
     internal class User
-    {
+    {public int email { get; set;}
     }
 }
